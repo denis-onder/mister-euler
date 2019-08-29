@@ -1,3 +1,3 @@
-# Discord Bot Example
+# Mr. Euler
 
-> Used for learning purposes
+> A bot for getting random Project Euler challenges in your Discord channel!
